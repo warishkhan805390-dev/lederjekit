@@ -1,0 +1,6 @@
+{
+  "name": "VALMONT & CO. — Luxury Leather Outerwear",
+  "description": "Shop handcrafted full-grain Italian leather jackets for men and women. Timeless biker, cafe racer, bomber, suede, and bespoke heritage silhouettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
